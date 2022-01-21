@@ -1,4 +1,4 @@
 jdk11 = true
 setup = ".muse/setup.sh"
 
-tools = [ "Bill Of Materials" ]
+tools = [ "Bill Of Materials", "FindSecBugs" ]
